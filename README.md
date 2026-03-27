@@ -62,4 +62,5 @@ Quiz completed! Score: 2/2
 
 # Author
 Francesco Manzato — Computer Engineering student, University of Padua
+
 LinkedIn: francescomanzatoo     ·    GitHub: francescomanzatoo
