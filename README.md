@@ -57,4 +57,9 @@ Quiz completed! Score: 2/2
 - Synonym hints for wrong answers
 - Spaced repetition algorithm
 - Score history and progress tracking
-- Graphical interface (Tkinter or web-based
+- Graphical interface (Tkinter or web-based)
+
+
+# Author
+Francesco Manzato — Computer Engineering student, University of Padua
+LinkedIn: francescomanzatoo     ·    GitHub: francescomanzatoo
