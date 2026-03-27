@@ -43,11 +43,15 @@ Read the instruction, then press the choosen command:
 Beginning of the quiz:
 
 1) Translate: perro
+
 Answer: cane
+
 Correct!
 
 2) Translate: gato
+
 Answer: gatto
+
 Correct!
 
 Quiz completed! Score: 2/2
