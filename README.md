@@ -20,7 +20,7 @@ Developed as a personal side project to support self-study of Spanish, with a fo
 - Requirements: Python 3.7+
 
 - Copy the repository:
-git clone https://github.com/YOUR_USERNAME/spanish-vocab-trainer.git
+git clone https://github.com/francescomanzatoo/spanish-vocab-trainer.git
 cd spanish-vocab-trainer
 
 - Run the app:
