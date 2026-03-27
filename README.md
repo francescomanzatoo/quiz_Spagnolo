@@ -22,7 +22,7 @@ Developed as a personal side project to support self-study of Spanish (answers a
 - Requirements: Python 3.7+
 
 - Copy the repository:
-git clone https://github.com/francescomanzatoo/spanish-vocab-trainer.git
+git clone https://github.com/francescomanzatoo/quiz_spagnolo.git
 cd spanish-vocab-trainer
 
 - Run the app:
